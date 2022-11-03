@@ -5,8 +5,8 @@
           animation / image
         </div>
         <div class="column">
-          <h1 class="title">Formations</h1><br>
-          <h2 class="subtitle">En présentiel & En distanciel  <br><br> Des parcours de formations <br> crées par des professionnels  </h2>
+          <h1 class="title">FORMATIONS</h1><br>
+          <h2 class="subtitle"><span>En présentiel & en distanciel </span> <br><br> Des parcours de formations <br> crées par des professionnels  </h2>
         </div>
       </div>
     </section>
@@ -35,5 +35,9 @@ html {
 .subtitle{
   color: white;
   font-weight: bold;
+}
+
+span{
+  font-size: 2rem;
 }
 </style>
