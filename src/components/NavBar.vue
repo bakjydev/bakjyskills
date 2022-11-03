@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 .navbar {
   background-color: #066382;
-  padding: 1rem;
+  padding: 1.5rem;
 }
 
 h1{
