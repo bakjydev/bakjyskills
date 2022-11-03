@@ -30,6 +30,7 @@ html {
 .title{
   color: white;
   font-weight: bold;
+  font-size: 5rem;
 }
 
 .subtitle{
@@ -41,6 +42,6 @@ span{
   font-size: 2rem;
 }
 .test{
-  margin-top: 15%;
+  margin-top: 12%;
 }
 </style>
