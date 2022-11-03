@@ -216,9 +216,6 @@ export default {
     nextStep3() {
       this.activeStep = 3;
     },
-    nextStep4() {
-      this.activeStep = 4;
-    },
   }
 }
 </script>
