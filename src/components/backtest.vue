@@ -1,10 +1,10 @@
 <template>
-    <section class="section is-medium">
+    <section class="section is-small">
       <div class="columns">
         <div class="column">
-          <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_2uvh7uv0.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
+          <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_2uvh7uv0.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px;"  loop autoplay></lottie-player>
         </div>
-        <div class="column">
+        <div class="column test">
           <h1 class="title">FORMATIONS</h1><br>
           <h2 class="subtitle"><span>En présentiel & en distanciel </span> <br><br> Des parcours de formations <br> crées par des professionnels  </h2>
         </div>
@@ -39,5 +39,8 @@ html {
 
 span{
   font-size: 2rem;
+}
+.test{
+  margin-top: 15%;
 }
 </style>
