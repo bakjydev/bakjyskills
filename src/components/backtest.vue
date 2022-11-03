@@ -2,7 +2,7 @@
     <section class="section is-medium">
       <div class="columns">
         <div class="column">
-          animation / image
+          <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_2uvh7uv0.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay></lottie-player>
         </div>
         <div class="column">
           <h1 class="title">FORMATIONS</h1><br>
