@@ -2,7 +2,7 @@
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item" href="/">
-        <img src="../assets/logoBlanc.png">
+        <img src="../assets/SymboleBlanc.png">
       </a>
 
       <a role="button" class="navbar-burger is-right" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -14,8 +14,8 @@
 
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-end is-hidden-mobile">
-        <a class="title text-white text-center">
-          Formation en présentiel <br>& distanciel
+        <a class="title text-center">
+          Bakjy SKILLS
         </a>
       </div>
 
@@ -63,36 +63,40 @@ document.addEventListener('DOMContentLoaded', () => {
 <style scoped>
 
 .navbar {
-  background-color: #066382;
+  background-color: white;
   padding: 1.5rem;
 }
 
 h1{
-  color: white;
+  color: #066382;
 }
 .content{
   margin: 1rem 0 0 0;
 }
 .button{
-  background-color: #066382;
-  color: white;
-  border: solid 2px white;
+  background-color: white;
+  color: #066382;
+  border: solid 2px #066382;
 }
 
 .button:hover{
   background-color: white;
   color: #066382;
-  border: solid 2px white;
+  border: solid 2px #066382;
 }
 
 .navbar-burger{
-  color: white;
+  color: #066382;
   background-color: #066382;
 }
 
 .navbar-menu{
-  background-color: #066382;
+  background-color: white;
   box-shadow: none;
+}
+
+.title{
+  color: #066382;
 }
 
 </style>
