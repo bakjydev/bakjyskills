@@ -6,7 +6,7 @@
         </div>
         <div class="column test">
           <h1 class="title">FORMATIONS</h1><br>
-          <h2 class="subtitle"><span>En présentiel & en distanciel </span> <img src="../assets/book.png"><br><br> Des parcours de formations <br> crées par des professionnels  </h2>
+          <h2 class="subtitle"><span>En présentiel & en distanciel </span> <br><br><img src="../assets/book.png"><br><br> Des parcours de formations <br> crées par des professionnels  </h2>
         </div>
       </div>
     </section>
@@ -43,5 +43,9 @@ span{
 }
 .test{
   margin-top: 12%;
+}
+
+img{
+  width: 5%;
 }
 </style>
