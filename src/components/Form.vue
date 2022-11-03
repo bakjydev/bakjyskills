@@ -161,4 +161,17 @@ h1 {
   width: 60%;
   padding: 2rem;
 }
+
+.button {
+  background-color: #066382;
+  color: white;
+  border: solid 2px white;
+  margin-top: 1rem;
+}
+
+.button:hover {
+  background-color: white;
+  color: #066382;
+  border: solid 2px white;
+}
 </style>
