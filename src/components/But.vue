@@ -1,6 +1,6 @@
 <template>
   <section class="section is-medium">
-    <h1 class="subtitle has-text-left"><span>NOTRE BUT ?</span> Créer et animer des formations pour améliorer et transformer vos pratiques en entreprise.</h1>
+    <h1 class="subtitle has-text-centered"><span>NOTRE BUT ?</span> Créer et animer des formations pour améliorer et transformer vos pratiques en entreprise.</h1>
     <div class="columns">
       <div class="column is-flex is-align-items-center is-flex-wrap-wrap">
         <figure class="image is-128x128 media-left">
@@ -17,7 +17,7 @@
     </div>
     <div class="columns">
       <div class="column is-flex is-align-items-center is-flex-wrap-wrap">
-        <figure class="image is-128x128 media-left">
+        <figure class="image is-128x128 media-left has-text-centered">
           <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
         </figure>
         <p class="has-text-left">ADAPTATION<br>FORMATIONS SUR MESURE</p>
@@ -42,6 +42,9 @@ export default {
 
 span{
   font-weight: bold;
+}
+.subtitle{
+  margin-bottom: 5rem;
 }
 figure{
   float: left;

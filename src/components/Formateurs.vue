@@ -3,7 +3,7 @@
     <div class="columns">
       <div class="column">
         <img src="https://bulma.io/images/placeholders/128x128.png"><br>
-        <h2 class="subtitle">Ingénieur et Fondateur</h2><br>
+        <h2 class="subtitle">Ingénieur et Fondateur du Groupe Bakjy</h2><br>
         <div class="buttons is-centered">
           <a class="button is-primary" @click.prevent="nextStep1(true)">
             <strong>En savoir plus</strong>
