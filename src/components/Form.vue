@@ -129,9 +129,6 @@
       </div>
 
       <div class="field is-horizontal">
-        <div class="field-label">
-          <!-- Left empty for spacing -->
-        </div>
         <div class="field-body">
           <div class="field">
             <div class="control">
@@ -161,6 +158,7 @@ h1 {
 
 .container {
   background-color: #066382;
-  width: 80%;
+  width: 60%;
+  padding: 2rem;
 }
 </style>
