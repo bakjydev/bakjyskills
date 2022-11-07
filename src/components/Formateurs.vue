@@ -1,5 +1,6 @@
 <template>
   <section class="section is-medium">
+    <h1 class="title">Nos formateurs</h1>
     <div class="columns">
       <div class="column">
         <img src="../assets/PNB.png"><br>
@@ -90,6 +91,11 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.title{
+  font-size: 10vh;
+  color: white;
 }
 
 .subtitle {
