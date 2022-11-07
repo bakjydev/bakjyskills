@@ -193,7 +193,6 @@
           </a>
         </div>
       </div>
-      <lottie-player src="https://assets4.lottiefiles.com/packages/lf20_0vpM54jLCY.json"  background="transparent"  speed="1"  style="width: 25%;"  loop  autoplay></lottie-player>
     </div>
 </template>
 
@@ -226,13 +225,10 @@ export default {
   box-shadow: rgba(0, 0, 0, 0.15) 4px 4px 4px;
 }
 
-.bg-img {
-  background-image: url(../assets/background-assets/backPoint.png) ;
-  background-position: center center;
-  background-repeat:  no-repeat;
-  background-attachment: fixed;
-  background-size:  cover;
+.section{
+  background-color: #066382;
 }
+
 
 lottie-animation{
   float: right;
