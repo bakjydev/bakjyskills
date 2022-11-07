@@ -16,7 +16,7 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Champagnelimousine";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -30,6 +30,11 @@ a {
 
 html {
   scroll-behavior: smooth;
+}
+@font-face {
+  font-family: "Champagnelimousine";
+  src: local("Champagnelimousine"),
+  url(./fonts/champagne_limousines/Champagne&Limousines.ttf) format("truetype");
 }
 
 </style>

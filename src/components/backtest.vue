@@ -35,7 +35,6 @@ export default {
   color: white;
   font-weight: bold;
   font-size: 12vh;
-  font-family: 'Champagne & Limousines', sans-serif;
 }
 
 .subtitle{
