@@ -85,6 +85,8 @@ span{
 }
 .subtitle{
   font-size: 1rem;
+  vertical-align: center;
+  margin-top: 1.5rem;
 }
 figure{
   float: left;
@@ -92,5 +94,6 @@ figure{
 
 .picto{
   width: 100px;
+  vertical-align: top;
 }
 </style>
