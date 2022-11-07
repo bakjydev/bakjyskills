@@ -2,31 +2,64 @@
   <section class="section is-medium">
     <h1 class="subtitle has-text-centered"><span>NOTRE BUT ?</span> Créer et animer des formations pour améliorer et transformer vos pratiques en entreprise.</h1>
     <div class="columns">
-      <div class="column is-flex is-align-items-center is-flex-wrap-wrap">
-        <figure class="image is-128x128 media-left">
-          <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-        </figure>
-        <p class="has-text-left">ECOUTE ET ANALYSE<br>EN FONCTION DE VOTRE PROFIL</p>
+      <div class="column is-align-items-center">
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img class="picto" src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="subtitle is-4 text-start">ECOUTE ET ANALYSE
+                EN FONCTION DE VOTRE PROFIL</p>
+            </div>
+          </div>
+        </div>
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img class="picto" src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="subtitle is-4 text-start">ADAPTATION
+                FORMATIONS SUR MESURE</p>
+            </div>
+          </div>
+        </div>
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img class="picto" src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="subtitle is-4 text-start">PROFESSIONNELS
+                DU METIERS</p>
+            </div>
+          </div>
+        </div>
+        <div class="card-content">
+          <div class="media">
+            <div class="media-left">
+              <figure class="image is-48x48">
+                <img class="picto" src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+              </figure>
+            </div>
+            <div class="media-content">
+              <p class="subtitle is-4 text-start">CAS PRATIQUES ET
+                RETOURS D'EXPERIENCE</p>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="column is-flex is-align-items-center is-flex-wrap-wrap">
-        <figure class="image is-128x128 media-left">
-          <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
+      <div class="column">
+        <figure class="image is-centered">
+          <img class="is-centered" src="../assets/background-assets/backblue.jpg">
         </figure>
-        <p class="has-text-left">PROFESSIONNELS<br>DU METIERS</p>
-      </div>
-    </div>
-    <div class="columns">
-      <div class="column is-flex is-align-items-center is-flex-wrap-wrap">
-        <figure class="image is-128x128 media-left has-text-centered">
-          <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-        </figure>
-        <p class="has-text-left">ADAPTATION<br>FORMATIONS SUR MESURE</p>
-      </div>
-      <div class="column is-flex is-align-items-center is-flex-wrap-wrap">
-        <figure class="image is-128x128 media-left">
-          <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
-        </figure>
-        <p class="has-text-left is-relative">CAS PRATIQUES ET<br>RETOURS D'EXPERIENCE</p>
       </div>
     </div>
   </section>
@@ -44,9 +77,13 @@ span{
   font-weight: bold;
 }
 .subtitle{
-  margin-bottom: 5rem;
+  font-size: 1rem;
 }
 figure{
   float: left;
+}
+
+.picto{
+  width: 100px;
 }
 </style>

@@ -2,9 +2,9 @@
     <section class="section is-small">
       <div class="columns">
         <div class="column">
-          <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_2uvh7uv0.json"  background="transparent"  speed="1"  style="width: 500px; height: 500px;"  loop autoplay></lottie-player>
+          <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_2uvh7uv0.json"  background="transparent"  speed="1"  style="height: 500px;"  loop autoplay></lottie-player>
         </div>
-        <div class="column test">
+        <div class="column align-self-center">
           <h1 class="title">FORMATIONS</h1><br>
           <h2 class="subtitle"><span>En présentiel & en distanciel </span> <br><br><img src="../assets/book.png"><br><br> Des parcours de formations <br> crées par des professionnels  </h2>
         </div>
@@ -14,12 +14,16 @@
 
 <script>
 export default {
-  name: "backtest"
+  name: "backtest",
 }
 </script>
 
 <style scoped>
-html {
+
+@import url('https://fonts.cdnfonts.com/css/champagne-limousines-2');
+
+
+  html {
   scroll-behavior: smooth;
 }
 
@@ -31,6 +35,7 @@ html {
   color: white;
   font-weight: bold;
   font-size: 5rem;
+  font-family: 'Champagne & Limousines', sans-serif;
 }
 
 .subtitle{

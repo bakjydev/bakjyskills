@@ -5,16 +5,18 @@
       <div class="field is-horizontal">
         <div class="field-body">
           <div class="field">
+            <p>Prénom</p>
             <p class="control is-expanded has-icons-left">
-              <input class="input" type="text" placeholder="Name">
+              <input class="input" type="text" placeholder="Name" value="Paul">
               <span class="icon is-small is-left">
           <i class="fas fa-user"></i>
         </span>
             </p>
           </div>
           <div class="field">
+            <p>Nom</p>
             <p class="control is-expanded has-icons-left has-icons-right">
-              <input class="input" type="text" placeholder="Username">
+              <input class="input" type="text" placeholder="Username" value="Joube">
               <span class="icon is-small is-left">
           <i class="fas fa-user"></i>
         </span>
@@ -25,8 +27,9 @@
       <div class="field is-horizontal">
         <div class="field-body">
           <div class="field">
+            <p>Mail</p>
             <p class="control is-expanded has-icons-left">
-              <input class="input" type="email" placeholder="Email">
+              <input class="input" type="email" placeholder="Email" value="Paul@gmail.com">
               <span class="icon is-small is-left">
           <i class="fas fa-envelope"></i>
         </span>
@@ -36,14 +39,10 @@
             <div class="field-label"></div>
             <div class="field-body">
               <div class="field is-expanded">
-                <div class="field has-addons">
-                  <p class="control">
-                    <a class="button is-static">
-                      +33
-                    </a>
-                  </p>
+                <div class="field">
+                  <p>Téléphone</p>
                   <p class="control is-expanded">
-                    <input class="input" type="tel" placeholder="Your phone number">
+                    <input class="input" type="tel" placeholder="Your phone number" value="0612345678">
                   </p>
                 </div>
               </div>
@@ -55,8 +54,9 @@
       <div class="field is-horizontal">
         <div class="field-body">
           <div class="field">
+            <p>Entreprise</p>
             <div class="control">
-              <input class="input" type="text" placeholder="Entreprise name">
+              <input class="input" type="text" placeholder="Entreprise name" value="My society">
             </div>
           </div>
         </div>
@@ -65,16 +65,7 @@
       <div class="field is-horizontal">
         <div class="field-body">
           <div class="field">
-            <div class="control">
-              <input class="input" type="text" placeholder="Departement name">
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="field is-horizontal">
-        <div class="field-body">
-          <div class="field">
+            <p>Nombre d'inscrit</p>
             <div class="control">
               <div class="select is-fullwidth">
                 <select>
@@ -93,6 +84,7 @@
             </div>
           </div>
           <div class="field">
+            <p>Date</p>
             <p class="control is-expanded has-icons-left has-icons-right">
               <input class="input" type="date">
             </p>
@@ -103,24 +95,8 @@
 
       <div class="field is-horizontal">
         <div class="field-body">
-          <div class="field is-narrow">
-            <div class="control">
-              <div class="select is-fullwidth">
-                <select>
-                  <option>Ingénieur et Fondateur</option>
-                  <option>Ressources Humaines et Communication</option>
-                  <option>Comptabilité et Finances</option>
-                </select>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-
-      <div class="field is-horizontal">
-        <div class="field-body">
           <div class="field">
+            <p>Demande</p>
             <div class="control">
               <textarea class="textarea" placeholder="Explain how we can help you"></textarea>
             </div>
@@ -153,6 +129,10 @@ export default {
 h1 {
   margin-bottom: 5rem;
   padding-top: 2rem;
+  color: white;
+}
+
+p{
   color: white;
 }
 

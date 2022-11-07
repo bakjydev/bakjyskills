@@ -2,8 +2,20 @@
   <section class="section is-medium">
     <div class="columns">
       <div class="column">
-        <img src="https://bulma.io/images/placeholders/128x128.png"><br>
+        <img src="../assets/PNB.png"><br>
         <h2 class="subtitle">Ingénieur et Fondateur du Groupe Bakjy</h2><br>
+      </div>
+      <div class="column">
+        <img src="../assets/anais.png"><br>
+        <h2 class="subtitle">Responsable des Ressources Humaines et de la Communication</h2>
+      </div>
+      <div class="column">
+        <img src="../assets/tobias.png"><br>
+        <h2 class="subtitle">Notre Expert en Comptabilité et Finances</h2>
+      </div>
+    </div>
+    <div class="columns">
+      <div class="column">
         <div class="buttons is-centered">
           <a class="button is-primary" @click.prevent="nextStep1(true)">
             <strong>En savoir plus</strong>
@@ -11,8 +23,6 @@
         </div>
       </div>
       <div class="column">
-        <img src="https://bulma.io/images/placeholders/128x128.png"><br>
-        <h2 class="subtitle">Responsable des Ressources Humaines et de la Communication</h2>
         <div class="buttons is-centered">
           <a class="button is-primary" @click.prevent="nextStep2(true)">
             <strong>En savoir plus</strong>
@@ -20,8 +30,6 @@
         </div>
       </div>
       <div class="column">
-        <img src="https://bulma.io/images/placeholders/128x128.png"><br>
-        <h2 class="subtitle">Notre Expert en Comptabilité et Finances</h2>
         <div class="buttons is-centered">
           <a class="button is-primary" @click.prevent="nextStep3(true)">
             <strong>En savoir plus</strong>
@@ -73,10 +81,12 @@ export default {
 <style scoped>
 section {
   background-color: #066382;
+  padding: 2rem;
+  padding-bottom: 4rem;
 }
 
 img {
-  width: 200px;
+  width: 300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
