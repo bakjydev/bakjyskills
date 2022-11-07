@@ -16,6 +16,6 @@ import Form from "@/components/Form";
 import Test from "@/components/Test";
 import Hero from "@/components/hero";
 export default {
-  components: {Hero, Test, Form, Formateurs, But, , Programme, Backtest}
+  components: {Hero, Test, Form, Formateurs, But, Programme, Backtest}
 }
 </script>
