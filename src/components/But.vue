@@ -1,6 +1,7 @@
 <template>
   <section class="section is-medium">
-    <h1 class="subtitle has-text-centered"><span>NOTRE BUT ?</span> Créer et animer des formations pour améliorer et transformer vos pratiques en entreprise.</h1>
+    <h1 class="title has-text-centered"><span>NOTRE BUT ?</span></h1>
+    <h2 class="subtitle">Créer et animer des formations pour améliorer et transformer vos pratiques en entreprise.</h2>
     <div class="columns">
       <div class="column is-align-items-center">
         <div class="card-content">
@@ -56,7 +57,7 @@
           </div>
         </div>
       </div>
-      <div class="column">
+      <div class="column align-self-center">
         <figure class="image is-centered">
           <img class="is-centered" src="../assets/background-assets/backblue.jpg">
         </figure>
@@ -72,7 +73,13 @@ export default {
 </script>
 
 <style scoped>
+h2{
+  padding-bottom: 5rem;
+}
 
+.section{
+  padding: 2rem;
+}
 span{
   font-weight: bold;
 }

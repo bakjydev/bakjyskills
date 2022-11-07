@@ -154,4 +154,8 @@ p{
   color: #066382;
   border: solid 2px white;
 }
+
+input{
+  color: grey;
+}
 </style>
