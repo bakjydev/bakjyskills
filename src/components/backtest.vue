@@ -34,7 +34,7 @@ export default {
 .title{
   color: white;
   font-weight: bold;
-  font-size: 5rem;
+  font-size: 12vh;
   font-family: 'Champagne & Limousines', sans-serif;
 }
 

@@ -58,7 +58,7 @@
         </div>
       </div>
       <div class="column align-self-center">
-        <figure class="image is-centered">
+        <figure class="image is-centered is-hidden-mobile">
           <img class="is-centered" src="../assets/background-assets/backblue.jpg">
         </figure>
       </div>
