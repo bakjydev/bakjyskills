@@ -8,7 +8,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img class="picto" src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                <img class="picto" src="../assets/ecoute.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content">
@@ -21,7 +21,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img class="picto" src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                <img class="picto" src="../assets/mesure.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content">
@@ -34,7 +34,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img class="picto" src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                <img class="picto" src="../assets/professionnel.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content">
@@ -47,7 +47,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-48x48">
-                <img class="picto" src="https://bulma.io/images/placeholders/96x96.png" alt="Placeholder image">
+                <img class="picto" src="../assets/pratiques.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content">
