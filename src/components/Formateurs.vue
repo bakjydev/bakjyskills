@@ -4,14 +4,17 @@
     <div class="columns">
       <div class="column">
         <img src="../assets/PNB.png"><br>
+        <h2 class="subtitle name">PIERRE-NICOLAS BACQUET</h2>
         <h2 class="subtitle">Ingénieur et Fondateur du Groupe Bakjy</h2><br>
       </div>
       <div class="column">
         <img src="../assets/anais.png"><br>
+        <h2 class="subtitle name">ANAIS EVRARD</h2>
         <h2 class="subtitle">Responsable des Ressources Humaines et de la Communication</h2>
       </div>
       <div class="column">
         <img src="../assets/tobias.png"><br>
+        <h2 class="subtitle name">TOBIAS SELLAM</h2>
         <h2 class="subtitle">Expert en Comptabilité et Finances</h2>
       </div>
     </div>
@@ -100,7 +103,11 @@ img {
 
 .subtitle {
   color: white;
-  font-weight: bold;
+  font-family: ChampagnelimousineBold;
+}
+
+.name{
+  font-size: 1.7rem;
 }
 
 .button {
