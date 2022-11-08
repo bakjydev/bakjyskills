@@ -29,14 +29,13 @@ export default {
   padding: 3rem;
 }
 .title{
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 .subtitle{
-  margin-bottom: 5rem;
+  margin-bottom: 3rem;
   font-size: 1.7rem;
 }
 .button{
-  margin-top: 1rem;
   background-color: #066382;
   color: white;
   border: solid 2px white;
