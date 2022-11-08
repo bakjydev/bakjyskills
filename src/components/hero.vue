@@ -5,7 +5,7 @@
         <div class="column">
           <a @click.prevent="nextStep1(true)">
             <div class="box">
-              <h1 class="title is-3 has-text-centered">Formation Excel</h1>
+              <h1 class="title is-3 has-text-centered">Formation Management</h1>
               <div class="expandabl"  v-if="activeStep ==1">
                 <div class="box2">
                   <article class="media">
@@ -101,7 +101,7 @@
         <div class="column">
           <a @click.prevent="nextStep3(true)">
             <div class="box">
-              <h1 class="title is-3 has-text-centered">Formation de management</h1>
+              <h1 class="title is-3 has-text-centered">Formation Excel</h1>
               <div class="expandabl"  v-if="activeStep ==3">
                 <div class="box2">
                   <article class="media">
@@ -148,7 +148,7 @@
         <div class="column">
           <a @click.prevent="nextStep4(true)">
             <div class="box">
-              <h1 class="title is-3 has-text-centered">Formation de comptabilité</h1>
+              <h1 class="title is-3 has-text-centered">Formation Comptabilité</h1>
               <div class="expandabl"  v-if="activeStep ==4">
                 <div class="box2">
                   <article class="media">

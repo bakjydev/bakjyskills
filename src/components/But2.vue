@@ -9,8 +9,8 @@
                 <img class="picto" src="../assets/ecoute.png" alt="Placeholder image">
               </figure>
             </div>
-            <div class="media-content">
-              <p class="subtitle is-4 ">ECOUTE ET ANALYSE
+            <div class="media-content align-self-center">
+              <p class="subtitle is-4 text-center">ECOUTE ET ANALYSE
                 EN FONCTION DE VOTRE PROFIL</p>
             </div>
           </div>
@@ -24,7 +24,7 @@
                 <img class="picto" src="../assets/mesure.png" alt="Placeholder image">
               </figure>
             </div>
-            <div class="media-content">
+            <div class="media-content align-self-center">
               <p class="subtitle is-4 ">ADAPTATION
                 FORMATIONS SUR MESURE</p>
             </div>
@@ -41,7 +41,7 @@
                 <img class="picto" src="../assets/professionnel.png" alt="Placeholder image">
               </figure>
             </div>
-            <div class="media-content">
+            <div class="media-content align-self-center">
               <p class="subtitle is-4 ">PROFESSIONNELS
                 DU METIERS</p>
             </div>
@@ -56,7 +56,7 @@
                 <img class="picto" src="../assets/pratiques.png" alt="Placeholder image">
               </figure>
             </div>
-            <div class="media-content">
+            <div class="media-content align-self-center">
               <p class="subtitle is-4 ">CAS PRATIQUES ET
                 RETOURS D'EXPERIENCE</p>
             </div>
@@ -74,5 +74,13 @@ export default {
 </script>
 
 <style scoped>
+  .subtitle{
+    font-family: ChampagnelimousineBold;
+    font-size: 1.5rem;
+  }
 
+  img{
+    border: #066382 solid 1px;
+    border-radius: 50%;
+  }
 </style>

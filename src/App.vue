@@ -37,4 +37,11 @@ html {
   url(./fonts/champagne_limousines/Champagne&Limousines.ttf) format("truetype");
 }
 
+@font-face {
+  font-family: "ChampagnelimousineBold";
+  src: local("ChampagnelimousineBold"),
+  url(./fonts/champagne_limousines/Champagne&LimousinesBold.ttf) format("truetype");
+}
+
+
 </style>

@@ -15,7 +15,7 @@
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-end is-hidden-mobile">
         <a class="title text-center">
-          BAKJY SKILLS
+          BAKJY <span>SKILLS</span>
         </a>
       </div>
 
@@ -97,6 +97,11 @@ h1{
 
 .title{
   color: #066382;
+  font-family: ChampagnelimousineBold;
+}
+
+span{
+  font-family: Champagnelimousine;
 }
 
 </style>

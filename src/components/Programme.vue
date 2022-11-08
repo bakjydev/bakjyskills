@@ -11,7 +11,7 @@
         </div>
       </div>
       <div class="column align-self-center has-text-centered">
-        <lottie-player class="is-centered has-text-centered" src="https://assets2.lottiefiles.com/packages/lf20_9wpyhdzo.json"  background="transparent"  speed="1"  style=" height: 300px;"  loop  autoplay></lottie-player>
+        <lottie-player class="is-centered has-text-centered" src="https://assets2.lottiefiles.com/packages/lf20_9wpyhdzo.json"  background="transparent"  speed="1"  style=" height: 400px;"  loop  autoplay></lottie-player>
       </div>
     </div>
   </section>

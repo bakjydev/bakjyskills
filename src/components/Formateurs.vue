@@ -87,14 +87,14 @@ section {
 }
 
 img {
-  width: 300px;
+  width: 250px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
 .title{
-  font-size: 8vw;
+  font-size: 6.5vw;
   color: white;
 }
 
