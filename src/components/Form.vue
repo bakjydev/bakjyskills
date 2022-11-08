@@ -120,7 +120,22 @@
 </template>
 
 <script>
-export default {}
+import emailjs from '@emailjs/browser';
+
+export default {
+  methods: {
+    sendEmail() {
+      emailjs.sendForm('service_gkwy7wh', 'template_4uhwedf', this.$refs.form, 'bMS1RO88XQRk1txIR')
+          .then((result) => {
+            console.log('SUCCESS!', result.text);
+            return alert('message envoyé avec succés');
+          }, (error) => {
+            console.log('FAILED...', error.text);
+            return alert('message non envoyé');
+          });
+    }
+  }
+}
 </script>
 
 <style scoped>
