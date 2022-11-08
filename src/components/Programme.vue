@@ -33,8 +33,10 @@ export default {
 }
 .subtitle{
   margin-bottom: 5rem;
+  font-size: 1.7rem;
 }
 .button{
+  margin-top: 1rem;
   background-color: #066382;
   color: white;
   border: solid 2px white;

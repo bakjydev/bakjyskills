@@ -9,7 +9,7 @@
                 <img class="picto is-rounded" src="../assets/ecoute.png" alt="Placeholder image">
               </figure>
             </div>
-            <div class="media-content text-start">
+            <div class="media-content text-start ">
               <p class="subtitle is-4">ECOUTE ET ANALYSE
                 EN FONCTION DE VOTRE PROFIL</p>
             </div>
@@ -42,7 +42,7 @@
               </figure>
             </div>
             <div class="media-content text-start">
-              <p class="subtitle is-4 ">PROFESSIONNELS
+              <p class="subtitle is-4">PROFESSIONNELS
                 DU METIERS</p>
             </div>
           </div>
@@ -57,7 +57,7 @@
               </figure>
             </div>
             <div class="media-content text-start">
-              <p class="subtitle is-4 ">CAS PRATIQUES ET
+              <p class="subtitle is-4">CAS PRATIQUES ET
                 RETOURS D'EXPERIENCE</p>
             </div>
           </div>
@@ -74,6 +74,12 @@ export default {
 </script>
 
 <style scoped>
+
+.media{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
   .subtitle{
     font-family: ChampagnelimousineBold;
     font-size: 1.5rem;
@@ -88,5 +94,6 @@ export default {
     border-radius: inherit;
     object-fit: cover;
     object-position: right center;
+
   }
 </style>
