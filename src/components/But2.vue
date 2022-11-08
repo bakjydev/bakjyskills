@@ -6,7 +6,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-96x96">
-                <img class="picto" src="../assets/ecoute.png" alt="Placeholder image">
+                <img class="picto is-rounded" src="../assets/ecoute.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content align-self-center">
@@ -21,7 +21,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-96x96">
-                <img class="picto" src="../assets/mesure.png" alt="Placeholder image">
+                <img class="picto is-rounded" src="../assets/mesure.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content align-self-center">
@@ -38,7 +38,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-96x96">
-                <img class="picto" src="../assets/professionnel.png" alt="Placeholder image">
+                <img class="picto is-rounded" src="../assets/professionnel.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content align-self-center">
@@ -52,8 +52,8 @@
         <div class="card-content">
           <div class="media">
             <div class="media-left">
-              <figure class="image is-96x96">
-                <img class="picto" src="../assets/pratiques.png" alt="Placeholder image">
+              <figure class="image is-96x96 is-rounded">
+                <img class="picto is-rounded" src="../assets/pratiques.png" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content align-self-center">
@@ -80,7 +80,13 @@ export default {
   }
 
   img{
-    border: #066382 solid 1px;
+    border: #066382 solid 2px;
     border-radius: 50%;
+    overflow: hidden;
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
+    object-fit: cover;
+    object-position: right center;
   }
 </style>
