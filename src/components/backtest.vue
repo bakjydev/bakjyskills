@@ -5,7 +5,7 @@
           <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_2uvh7uv0.json"  background="transparent"  speed="1"  style="height: 500px;"  loop autoplay></lottie-player>
         </div>
         <div class="column align-self-center">
-          <h1 class="title">FORMATIONS</h1><br>
+          <h1 class="title">FORMATIONS</h1>
           <h2 class="subtitle"><span>En présentiel & en distanciel </span> <br><br><img src="../assets/book.png"><br><br> Des parcours de formations <br> crées par des professionnels  </h2>
         </div>
       </div>
@@ -31,20 +31,17 @@ export default {
 
 .title{
   color: white;
-  font-weight: bold;
-  font-size: 8vw;
+  font-family: ChampagnelimousineBold;
+  font-size: 6.5vw;
 }
 
 .subtitle{
   color: white;
-  font-weight: bold;
+  font-family: ChampagnelimousineBold;
 }
 
 span{
   font-size: 2rem;
-}
-.test{
-  margin-top: 12%;
 }
 
 img{

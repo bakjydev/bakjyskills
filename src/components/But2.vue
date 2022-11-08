@@ -9,8 +9,8 @@
                 <img class="picto is-rounded" src="../assets/ecoute.png" alt="Placeholder image">
               </figure>
             </div>
-            <div class="media-content align-self-center">
-              <p class="subtitle is-4 text-center">ECOUTE ET ANALYSE
+            <div class="media-content text-start">
+              <p class="subtitle is-4">ECOUTE ET ANALYSE
                 EN FONCTION DE VOTRE PROFIL</p>
             </div>
           </div>
@@ -24,7 +24,7 @@
                 <img class="picto is-rounded" src="../assets/mesure.png" alt="Placeholder image">
               </figure>
             </div>
-            <div class="media-content align-self-center">
+            <div class="media-content text-start">
               <p class="subtitle is-4 ">ADAPTATION
                 FORMATIONS SUR MESURE</p>
             </div>
@@ -41,7 +41,7 @@
                 <img class="picto is-rounded" src="../assets/professionnel.png" alt="Placeholder image">
               </figure>
             </div>
-            <div class="media-content align-self-center">
+            <div class="media-content text-start">
               <p class="subtitle is-4 ">PROFESSIONNELS
                 DU METIERS</p>
             </div>
@@ -56,7 +56,7 @@
                 <img class="picto is-rounded" src="../assets/pratiques.png" alt="Placeholder image">
               </figure>
             </div>
-            <div class="media-content align-self-center">
+            <div class="media-content text-start">
               <p class="subtitle is-4 ">CAS PRATIQUES ET
                 RETOURS D'EXPERIENCE</p>
             </div>
