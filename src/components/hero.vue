@@ -52,7 +52,7 @@
         <div class="column">
           <a @click.prevent="nextStep2(true)">
             <div class="box">
-              <h1 class="title is-3 has-text-centered">Formation Excel</h1>
+              <h1 class="title is-3 has-text-centered">Formation Anglais</h1>
               <div class="expandabl"  v-if="activeStep ==2">
                 <div class="box2">
                   <article class="media">
@@ -214,6 +214,9 @@ export default {
     },
     nextStep3() {
       this.activeStep = 3;
+    },
+    nextStep4() {
+      this.activeStep = 4;
     },
   }
 }

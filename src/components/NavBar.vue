@@ -15,7 +15,7 @@
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-end is-hidden-mobile">
         <a class="title text-center">
-          Bakjy SKILLS
+          BAKJY SKILLS
         </a>
       </div>
 

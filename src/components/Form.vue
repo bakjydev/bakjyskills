@@ -11,7 +11,7 @@
                 <input class="input" type="text" name="name" placeholder="Name" value="Paul">
                 <span class="icon is-small is-left">
           <i class="fas fa-user"></i>
-        </span>
+                </span>
               </p>
             </div>
             <div class="field">
@@ -19,12 +19,13 @@
               <p class="control is-expanded has-icons-left has-icons-right">
                 <input class="input" type="text" name="username" placeholder="Username" value="Joube">
                 <span class="icon is-small is-left">
-          <i class="fas fa-user"></i>
-        </span>
+                  <i class="fas fa-user"></i>
+                </span>
               </p>
             </div>
           </div>
         </div>
+
         <div class="field is-horizontal">
           <div class="field-body">
             <div class="field">
@@ -32,25 +33,21 @@
               <p class="control is-expanded has-icons-left">
                 <input class="input" type="email" name="mail" placeholder="Email" value="Paul@gmail.com">
                 <span class="icon is-small is-left">
-          <i class="fas fa-envelope"></i>
-        </span>
+                <i class="fas fa-envelope"></i>
+                </span>
               </p>
             </div>
-            <div class="field is-horizontal">
-              <div class="field-label"></div>
-              <div class="field-body">
-                <div class="field is-expanded">
-                  <div class="field">
-                    <p>Téléphone</p>
-                    <p class="control is-expanded">
-                      <input class="input" name="tel" placeholder="Your phone number" value="0612345678">
-                    </p>
-                  </div>
-                </div>
-              </div>
+            <div class="field">
+              <p>Téléphone</p>
+              <p class="control is-expanded has-icons-left has-icons-right">
+                <input class="input" name="tel" placeholder="Your phone number" value="0612345678">
+                <span class="icon is-small is-left">
+                </span>
+              </p>
             </div>
           </div>
         </div>
+
 
         <div class="field is-horizontal">
           <div class="field-body">
@@ -86,7 +83,7 @@
             </div>
             <div class="field">
               <p>Date</p>
-              <p class="control is-expanded has-icons-left has-icons-right">
+              <p class="control is is-expanded has-icons-left has-icons-right">
                 <input class="input" name="date" type="date">
               </p>
             </div>
@@ -153,6 +150,7 @@ p {
   background-color: #066382;
   width: 60%;
   padding: 2rem;
+  border-radius: 25px;
 }
 
 .button {
@@ -170,5 +168,9 @@ p {
 
 input {
   color: grey;
+}
+
+.select{
+  margin-right: 6.5rem;
 }
 </style>

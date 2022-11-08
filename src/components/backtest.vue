@@ -32,7 +32,7 @@ export default {
 .title{
   color: white;
   font-weight: bold;
-  font-size: 12vh;
+  font-size: 8vw;
 }
 
 .subtitle{

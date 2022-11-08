@@ -1,6 +1,6 @@
 <template>
   <section class="section is-medium">
-    <h1 class="title">Nos formateurs</h1>
+    <h1 class="title">NOS FORMATEURS</h1>
     <div class="columns">
       <div class="column">
         <img src="../assets/PNB.png"><br>
@@ -12,7 +12,7 @@
       </div>
       <div class="column">
         <img src="../assets/tobias.png"><br>
-        <h2 class="subtitle">Notre Expert en Comptabilité et Finances</h2>
+        <h2 class="subtitle">Expert en Comptabilité et Finances</h2>
       </div>
     </div>
     <div class="columns">
@@ -94,7 +94,7 @@ img {
 }
 
 .title{
-  font-size: 10vh;
+  font-size: 8vw;
   color: white;
 }
 
