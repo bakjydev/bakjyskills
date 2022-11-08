@@ -1,6 +1,6 @@
 <template>
   <section class="section is-medium">
-    <div class="container" @submit.prevent="sendEmail">
+    <div class="container">
       <h1>Nous contacter</h1>
       <div class="field is-horizontal">
         <div class="field-body">
@@ -42,7 +42,7 @@
                 <div class="field">
                   <p>Téléphone</p>
                   <p class="control is-expanded">
-                    <input class="input" type="tel" name="tel" placeholder="Your phone number" value="0612345678">
+                    <input class="input" name="tel" placeholder="Your phone number" value="0612345678">
                   </p>
                 </div>
               </div>
@@ -118,21 +118,7 @@
 </template>
 
 <script>
-import emailjs from '@emailjs/browser';
-
 export default {
-  methods: {
-    sendEmail() {
-      emailjs.sendForm('service_gkwy7wh', 'template_4uhwedf', this.$refs.form, 'bMS1RO88XQRk1txIR')
-          .then((result) => {
-            console.log('SUCCESS!', result.text);
-            return alert('message envoyé avec succés');
-          }, (error) => {
-            console.log('FAILED...', error.text);
-            return alert('message non envoyé');
-          });
-    }
-  }
 }
 </script>
 
