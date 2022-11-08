@@ -108,9 +108,7 @@
         <div class="field-body">
           <div class="field">
             <div class="control">
-              <button class="button is-primary" type="submit" value="Send">
-                Send message
-              </button>
+              <input class="button is-primary" type="submit" value="Send">
             </div>
           </div>
         </div>
