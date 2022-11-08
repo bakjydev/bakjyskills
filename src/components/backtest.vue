@@ -20,8 +20,6 @@ export default {
 
 <style scoped>
 
-@import url('https://fonts.cdnfonts.com/css/champagne-limousines-2');
-
 
   html {
   scroll-behavior: smooth;
