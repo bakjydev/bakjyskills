@@ -4,7 +4,7 @@
   <hero></hero>
   <But></But>
   <Formateurs></Formateurs>
-  <Form2></Form2>
+  <Form></Form>
 </template>
 <script>
 import Backtest from "@/components/backtest";
@@ -12,8 +12,8 @@ import Programme from "@/components/Programme";
 import But from "@/components/But";
 import Formateurs from "@/components/Formateurs";
 import Hero from "@/components/hero";
-import Form2 from "@/components/Form2";
+import Form from "@/components/Form";
 export default {
-  components: {Form2, Hero, Formateurs, But, Programme, Backtest}
+  components: {Form, Hero, Formateurs, But, Programme, Backtest}
 }
 </script>
