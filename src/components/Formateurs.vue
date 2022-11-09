@@ -21,39 +21,24 @@
     <div class="columns">
       <div class="column">
         <div class="buttons is-centered">
-          <a class="button is-primary" @click.prevent="nextStep1(true)">
+          <a class="button is-primary" href="https://www.linkedin.com/in/pierre-nicolas-bacquet-61b56820/" target="_blank">
             <strong>En savoir plus</strong>
           </a>
         </div>
       </div>
       <div class="column">
         <div class="buttons is-centered">
-          <a class="button is-primary" @click.prevent="nextStep2(true)">
+          <a class="button is-primary" href="https://www.linkedin.com/in/ana%C3%AFs-evrard-a41aa0114/" target="_blank">
             <strong>En savoir plus</strong>
           </a>
         </div>
       </div>
       <div class="column">
         <div class="buttons is-centered">
-          <a class="button is-primary" @click.prevent="nextStep3(true)">
+          <a class="button is-primary"  href="https://www.linkedin.com/in/tobias-sellam-6388ba144/" target="_blank">
             <strong>En savoir plus</strong>
           </a>
         </div>
-      </div>
-    </div>
-    <div v-if="activeStep==1">
-      <div class="box">
-        cc je suis le détail de PNB
-      </div>
-    </div>
-    <div v-if="activeStep==2">
-      <div class="box">
-        cc je suis le détail de Anaïs
-      </div>
-    </div>
-    <div v-if="activeStep==3">
-      <div class="box">
-        cc je suis le détail de Tobias
       </div>
     </div>
   </section>

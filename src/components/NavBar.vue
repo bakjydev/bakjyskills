@@ -23,6 +23,7 @@
         <div class="navbar-item">
           <div class="buttons">
             <a class="button is-primary" href="mailto:anais@bakjy.com?subject=Bakjy Skills">
+              <strong class="fas fa-phone" />
               <strong>Nous contacter</strong>
             </a>
           </div>
@@ -100,8 +101,17 @@ h1{
   font-family: ChampagnelimousineBold;
 }
 
+.title:hover{
+  transform: scale(1.2);
+  transition-duration: 0.5s;
+}
+
 span{
   font-family: Champagnelimousine;
+}
+
+.fas{
+  margin-right: 1rem;
 }
 
 </style>

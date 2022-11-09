@@ -1,5 +1,6 @@
 <template>
-  <section class="section is-medium">
+  <section class="section is-medium bg-img">
+    <div class="title">Pourquoi choisir Bakjy Skills ?</div>
     <div class="columns">
       <div class="column ">
         <div class="card-content">
@@ -75,25 +76,42 @@ export default {
 
 <style scoped>
 
-.media{
+.media {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-  .subtitle{
-    font-family: ChampagnelimousineBold;
-    font-size: 1.5rem;
-  }
 
-  img{
-    border: #066382 solid 2px;
-    border-radius: 50%;
-    overflow: hidden;
-    width: inherit;
-    height: inherit;
-    border-radius: inherit;
-    object-fit: cover;
-    object-position: right center;
+.title{
+  font-family: ChampagnelimousineBold;
+  margin-bottom: 3rem;
+}
+.subtitle {
+  font-family: ChampagnelimousineBold;
+  font-size: 1.5rem;
+}
 
-  }
+img {
+  border: #066382 solid 2px;
+  border-radius: 50%;
+  overflow: hidden;
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+  object-fit: cover;
+  object-position: right center;
+
+}
+
+.has-background{
+  background: rgb(0,0,0);
+}
+
+.bg-img {
+  background-image: url(../assets/background-assets/back.jpg) ;
+  background-position: center center;
+  background-repeat:  no-repeat;
+  background-attachment: fixed;
+  background-size:  cover;
+}
 </style>
