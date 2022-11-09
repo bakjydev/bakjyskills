@@ -14,6 +14,6 @@ import Hero from "@/components/hero";
 import Form from "@/components/Form";
 import But2 from "@/components/But2";
 export default {
-  components: {But2, Form, Hero, Formateurs, Programme, Backtest}
+  components: { But2, Form, Hero, Formateurs, Programme, Backtest}
 }
 </script>

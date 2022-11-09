@@ -1,6 +1,7 @@
 <template>
   <section class="section is-medium bg-img">
-    <div class="title">Pourquoi choisir Bakjy Skills ?</div>
+    <h1 class="title has-text-centered"><span>NOTRE BUT ?</span></h1>
+    <h2 class="subtitle">Créer et animer des formations pour améliorer et transformer vos pratiques en entreprise.</h2>
     <div class="columns">
       <div class="column ">
         <div class="card-content">
