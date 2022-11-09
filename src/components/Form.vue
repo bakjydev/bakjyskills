@@ -2,7 +2,12 @@
   <section class="section is-medium">
     <div class="container">
       <form ref="form" @submit.prevent="sendEmail">
-        <h1>Nous contacter</h1>
+        <di>
+          <h1>
+            <strong class="fas fa-phone is-white"></strong>
+            Nous contacter
+          </h1>
+        </di>
         <div class="field is-horizontal">
           <div class="field-body">
             <div class="field">
@@ -142,6 +147,10 @@ h1 {
   color: white;
 }
 
+.fa-phone{
+  color: white;
+}
+
 p {
   color: white;
 }
@@ -170,7 +179,7 @@ input {
   color: grey;
 }
 
-.select{
+.select {
   margin-right: 6.5rem;
 }
 </style>

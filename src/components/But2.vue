@@ -77,6 +77,10 @@ export default {
 
 <style scoped>
 
+.section{
+  padding: 4rem;
+}
+
 .media {
   display: flex;
   justify-content: space-between;
@@ -85,7 +89,7 @@ export default {
 
 .title{
   font-family: ChampagnelimousineBold;
-  margin-bottom: 3rem;
+  margin-bottom: 5rem;
 }
 .subtitle {
   font-family: ChampagnelimousineBold;
