@@ -8,21 +8,21 @@
             <div class="expandabl" v-if="activeStep ==1">
               <div class="box2">
                 <article class="media">
-                  <div class="media-left">
-                    <figure class="image is-64x64">
+                  <div class="media-left is-inline-block is-4">
+                    <figure class="image is-128x128">
                       <img src="../assets/newImg/anais.webp" alt="Image">
                     </figure>
                   </div>
-                  <div class="media-content">
-                    <div class="content">
+                  <div class="media-content is-8">
+                    <div class="content text-start">
                       <p>
                         <strong>Anaïs Evrard</strong> <small>anais@bakjy.com</small>
                         <br>
-                        Formation s'adressant à tous les managers qui souhaitent monter en compétences
+                        Formation s'adressant à tous les managers qui souhaitent <br>monter en compétences
                       </p>
                     </div>
                     <div>
-                      <div class="buttons is-inline-block">
+                      <div class="buttons">
                         <a class="button"
                            href="https://drive.google.com/file/d/1u84o2DgihY9o6GSF_miSUbttmZKaZt2y/view?usp=sharing"
                            target="_blank">
@@ -232,5 +232,13 @@ lottie-animation {
   background-color: white;
   color: #066382;
   border: solid 2px #066382;
+}
+
+img{
+  margin-bottom: 2rem;
+}
+
+.content{
+  text-align: center;
 }
 </style>
