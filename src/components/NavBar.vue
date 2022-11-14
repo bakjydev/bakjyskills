@@ -22,7 +22,7 @@
       <div class="navbar-end">
         <div class="navbar-item">
           <div class="buttons">
-            <a class="button is-primary" href="mailto:anais@bakjy.com?subject=Bakjy Skills">
+            <a class="button is-primary" href="#form">
               <strong class="fas fa-phone" />
               <strong>Nous contacter</strong>
             </a>

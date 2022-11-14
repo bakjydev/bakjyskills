@@ -2,12 +2,12 @@
   <section class="section is-medium">
     <div class="container">
       <form ref="form" @submit.prevent="sendEmail">
-        <di>
+        <div id="form">
           <h1>
             <strong class="fas fa-phone is-white"></strong>
             Nous contacter
           </h1>
-        </di>
+        </div>
         <div class="field is-horizontal">
           <div class="field-body">
             <div class="field">
