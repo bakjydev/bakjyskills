@@ -4,7 +4,7 @@
       <p>
         <strong>Copyright 2022 ©</strong> groupe Bakjy
         <router-link to="/mentionslegales">
-          <a>Mentions légales </a>
+          <link>Mentions légales
         </router-link>
       </p>
     </div>
