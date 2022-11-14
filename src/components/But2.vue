@@ -8,7 +8,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image ">
-                <img class="picto is-rounded" src="../assets/ecoute.png" alt="Placeholder image">
+                <img class="picto is-rounded" src="../assets/newImg/ecoute.webp" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content text-start ">
@@ -23,7 +23,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image ">
-                <img class="picto is-rounded" src="../assets/mesure.png" alt="Placeholder image">
+                <img class="picto is-rounded" src="../assets/newImg/mesure.webp" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content text-start">
@@ -40,7 +40,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image ">
-                <img class="picto is-rounded" src="../assets/professionnel.png" alt="Placeholder image">
+                <img class="picto is-rounded" src="../assets/newImg/professionnel.webp" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content text-start">
@@ -55,7 +55,7 @@
           <div class="media">
             <div class="media-left">
               <figure class="image is-rounded">
-                <img class="picto is-rounded" src="../assets/pratiques.png" alt="Placeholder image">
+                <img class="picto is-rounded" src="../assets/newImg/pratiques.webp" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content text-start">

@@ -2,7 +2,7 @@
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item" href="/">
-        <img src="../assets/SymboleBlanc.png" alt="logo groupe bakjy">
+        <img src="../assets/newImg/SymboleBlanc.webp" alt="logo groupe bakjy">
       </a>
 
       <a role="button" class="navbar-burger is-right" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">

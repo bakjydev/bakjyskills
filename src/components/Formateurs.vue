@@ -3,17 +3,17 @@
     <h1 class="title">NOS FORMATEURS</h1>
     <div class="columns">
       <div class="column">
-        <img src="../assets/PNB.png" alt="Pierre-Nicolas Bacquet"><br>
+        <img src="../assets/newImg/PNB.webp" alt="Pierre-Nicolas Bacquet"><br>
         <h2 class="subtitle name">PIERRE-NICOLAS BACQUET</h2>
         <h2 class="subtitle">Ingénieur et Fondateur du Groupe Bakjy</h2><br>
       </div>
       <div class="column">
-        <img src="../assets/anais.png" alt="Anaïs Evrard"><br>
+        <img src="../assets/newImg/anais.webp" alt="Anaïs Evrard"><br>
         <h2 class="subtitle name">ANAIS EVRARD</h2>
         <h2 class="subtitle">Responsable des Ressources Humaines et de la Communication</h2>
       </div>
       <div class="column">
-        <img src="../assets/tobias.png" alt="Tobias Sellam"><br>
+        <img src="../assets/newImg/tobias.webp" alt="Tobias Sellam"><br>
         <h2 class="subtitle name">TOBIAS SELLAM</h2>
         <h2 class="subtitle">Expert en Comptabilité et Finances</h2>
       </div>
