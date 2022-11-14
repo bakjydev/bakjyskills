@@ -6,7 +6,7 @@
         </div>
         <div class="column align-self-center">
           <h1 class="title">FORMATIONS</h1>
-          <h2 class="subtitle"><span>En présentiel & en distanciel </span> <br><br><img src="../assets/book.png"><br><br> Des parcours de formations <br> crées par des professionnels  </h2>
+          <h2 class="subtitle"><span>En présentiel & en distanciel </span> <br><br><img src="../assets/book.png" alt="séparateur book"><br><br> Des parcours de formations <br> crées par des professionnels  </h2>
         </div>
       </div>
     </section>

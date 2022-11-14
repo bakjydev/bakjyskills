@@ -89,7 +89,7 @@
             <div class="field">
               <p>Date</p>
               <p class="control is is-expanded has-icons-left has-icons-right">
-                <input class="input" name="date" type="date">
+                <input class="input date" name="date" type="date">
               </p>
             </div>
           </div>

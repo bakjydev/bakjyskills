@@ -2,7 +2,7 @@
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item" href="/">
-        <img src="../assets/SymboleBlanc.png">
+        <img src="../assets/SymboleBlanc.png" alt="logo groupe bakjy">
       </a>
 
       <a role="button" class="navbar-burger is-right" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -14,7 +14,7 @@
 
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-end is-hidden-mobile">
-        <a class="title text-center">
+        <a class="title text-center" href="/">
           BAKJY <span>SKILLS</span>
         </a>
       </div>
