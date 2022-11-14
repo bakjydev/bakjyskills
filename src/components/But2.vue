@@ -7,7 +7,7 @@
         <div class="card-content">
           <div class="media">
             <div class="media-left">
-              <figure class="image is-96x96">
+              <figure class="image ">
                 <img class="picto is-rounded" src="../assets/ecoute.png" alt="Placeholder image">
               </figure>
             </div>
@@ -22,7 +22,7 @@
         <div class="card-content">
           <div class="media">
             <div class="media-left">
-              <figure class="image is-96x96">
+              <figure class="image ">
                 <img class="picto is-rounded" src="../assets/mesure.png" alt="Placeholder image">
               </figure>
             </div>
@@ -39,7 +39,7 @@
         <div class="card-content">
           <div class="media">
             <div class="media-left">
-              <figure class="image is-96x96">
+              <figure class="image ">
                 <img class="picto is-rounded" src="../assets/professionnel.png" alt="Placeholder image">
               </figure>
             </div>
@@ -54,7 +54,7 @@
         <div class="card-content">
           <div class="media">
             <div class="media-left">
-              <figure class="image is-96x96 is-rounded">
+              <figure class="image is-rounded">
                 <img class="picto is-rounded" src="../assets/pratiques.png" alt="Placeholder image">
               </figure>
             </div>
@@ -100,12 +100,11 @@ img {
   border: #066382 solid 2px;
   border-radius: 50%;
   overflow: hidden;
-  width: inherit;
+  width: 5rem;
   height: inherit;
   border-radius: inherit;
   object-fit: cover;
-  object-position: right center;
-
+  object-position:center;
 }
 
 .has-background{
