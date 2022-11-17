@@ -5,21 +5,7 @@
       <div class="column">
         <img src="../assets/newImg/PNB.webp" alt="Pierre-Nicolas Bacquet"><br>
         <h2 class="subtitle name">PIERRE-NICOLAS BACQUET</h2>
-        <h2 class="subtitle">Ingénieur et Fondateur du Groupe Bakjy</h2><br>
-      </div>
-      <div class="column">
-        <img src="../assets/newImg/anais.webp" alt="Anaïs Evrard"><br>
-        <h2 class="subtitle name">ANAIS EVRARD</h2>
-        <h2 class="subtitle">Responsable des Ressources Humaines et de la Communication</h2>
-      </div>
-      <div class="column">
-        <img src="../assets/newImg/tobias.webp" alt="Tobias Sellam"><br>
-        <h2 class="subtitle name">TOBIAS SELLAM</h2>
-        <h2 class="subtitle">Expert en Comptabilité et Finances</h2>
-      </div>
-    </div>
-    <div class="columns">
-      <div class="column">
+        <h2 class="subtitle">Ingénieur et Fondateur du Groupe Bakjy</h2>
         <div class="buttons is-centered">
           <a class="button is-primary" href="https://www.linkedin.com/in/pierre-nicolas-bacquet-61b56820/" target="_blank">
             <strong>En savoir plus</strong>
@@ -27,6 +13,9 @@
         </div>
       </div>
       <div class="column">
+        <img src="../assets/newImg/anais.webp" alt="Anaïs Evrard"><br>
+        <h2 class="subtitle name">ANAIS EVRARD</h2>
+        <h2 class="subtitle">Responsable des Ressources Humaines et de la Communication</h2>
         <div class="buttons is-centered">
           <a class="button is-primary" href="https://www.linkedin.com/in/ana%C3%AFs-evrard-a41aa0114/" target="_blank">
             <strong>En savoir plus</strong>
@@ -34,6 +23,9 @@
         </div>
       </div>
       <div class="column">
+        <img src="../assets/newImg/tobias.webp" alt="Tobias Sellam"><br>
+        <h2 class="subtitle name">TOBIAS SELLAM</h2>
+        <h2 class="subtitle">Expert en Comptabilité et Finances</h2>
         <div class="buttons is-centered">
           <a class="button is-primary"  href="https://www.linkedin.com/in/tobias-sellam-6388ba144/" target="_blank">
             <strong>En savoir plus</strong>
