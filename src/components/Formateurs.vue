@@ -5,7 +5,7 @@
       <div class="column">
         <img src="../assets/newImg/PNB.webp" alt="Pierre-Nicolas Bacquet"><br>
         <h2 class="subtitle name">PIERRE-NICOLAS BACQUET</h2>
-        <h2 class="subtitle">Ingénieur et Fondateur du Groupe Bakjy</h2>
+        <h2 class="subtitle">Ingénieur diplôme de l’Ecole Centrale Paris </h2>
         <div class="buttons is-centered">
           <a class="button is-primary" href="https://www.linkedin.com/in/pierre-nicolas-bacquet-61b56820/" target="_blank">
             <strong>En savoir plus</strong>
