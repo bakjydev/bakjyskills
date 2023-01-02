@@ -8,10 +8,12 @@
           <div class="media">
             <div class="media-left">
               <figure class="image ">
+<!--      img des différents but          -->
                 <img class="picto is-rounded" src="../assets/newImg/ecoute.webp" alt="Placeholder image">
               </figure>
             </div>
             <div class="media-content text-start ">
+              <!--        txt à la suite des img       -->
               <p class="subtitle is-4">ECOUTE ET ANALYSE
                 EN FONCTION DE VOTRE PROFIL</p>
             </div>

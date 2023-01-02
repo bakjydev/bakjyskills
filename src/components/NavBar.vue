@@ -2,6 +2,7 @@
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item" href="/">
+<!--  logo bakjy dans la navbar      -->
         <img src="../assets/newImg/SymboleBlanc.webp" alt="logo groupe bakjy">
       </a>
 
@@ -15,6 +16,7 @@
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-end is-hidden-mobile">
         <a class="title text-center" href="/">
+          <!--  Titre du site dans la navbar      -->
           BAKJY <span>SKILLS</span>
         </a>
       </div>
@@ -23,6 +25,7 @@
         <div class="navbar-item">
           <div class="buttons">
             <a class="button is-primary" href="#form">
+              <!--  icone telephone et nous contacter btn de la navbar      -->
               <strong class="fas fa-phone" />
               <strong>Nous contacter</strong>
             </a>

@@ -1,20 +1,44 @@
+
+<!--  SI OUS SOUHAITEZ ACTIVER UN NOUVELLE FORMATION IL FAUDRA RETIRER LE "opacity-50" ET ENSUITE
+      MODIFIER LES INFOS DANS LES BOX
+      DE PLUS LIGNE 210 IL FAUDRA COPIER COLLER LES LIGNE 208 A 210 ET CHANGER LE NUMERO DE LA NEXSTEP
+      PAR LE NEXT 2, 3 OU 4 EX :
+      nextStep1() {
+      this.activeStep = 1;
+    },
+    nextStep2() {
+      this.activeStep = 2;
+    },
+    nextStep3() {
+      this.activeStep = 3;
+    },
+    nextStep4() {
+      this.activeStep = 4;
+    },
+
+-->
+
 <template name="about">
   <div class="section is-small bg-img">
     <div class="columns">
       <div class="column">
         <a @click.prevent="nextStep1(true)" href="">
           <div class="box">
+            <!--  titre de la formation      -->
             <h1 class="title is-3 has-text-centered">Formation Management</h1>
             <div class="expandabl" v-if="activeStep ==1">
               <div class="box2">
+                <!--  contenu affiché on click      -->
                 <article class="media">
                   <div class="media-left is-inline-block is-4">
                     <figure class="image is-128x128">
+                      <!--  img du formateurs     -->
                       <img src="../assets/newImg/anais.webp" alt="Image">
                     </figure>
                   </div>
                   <div class="media-content is-8">
                     <div class="content text-start">
+                      <!--  txt sur la formation      -->
                       <p>
                         <strong>Anaïs Evrard</strong> <small>anais@bakjy.com</small>
                         <br>
@@ -23,6 +47,7 @@
                     </div>
                     <div>
                       <div class="buttons">
+                        <!--  btn ver le drive      -->
                         <a class="button"
                            href="https://drive.google.com/file/d/1u84o2DgihY9o6GSF_miSUbttmZKaZt2y/view?usp=sharing"
                            target="_blank">
