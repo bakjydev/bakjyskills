@@ -159,7 +159,7 @@ p {
 
 .container {
   background-color: #066382;
-  width: 60%;
+  width: 80%;
   padding: 2rem;
   border-radius: 25px;
 }
