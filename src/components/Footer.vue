@@ -6,6 +6,9 @@
         <router-link to="/mentionslegales">
           <link>Mentions légales
         </router-link>
+        <router-link to="/ReglementInterieur">
+          <link>Réglement Intérieur
+        </router-link>
       </p>
     </div>
   </footer>
