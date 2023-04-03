@@ -33,14 +33,14 @@
                   <div class="media-left is-inline-block is-4">
                     <figure class="image is-128x128">
                       <!--  img du formateurs     -->
-                      <img src="../assets/newImg/anais.webp" alt="Image">
+                      <img src="../assets/newImg/PNB.webp" alt="Image">
                     </figure>
                   </div>
                   <div class="media-content is-8">
                     <div class="content text-start">
                       <!--  txt sur la formation      -->
                       <p>
-                        <strong>Anaïs Evrard</strong> <small>anais@bakjy.com</small>
+                        <strong>Pierre-Nicolas Bacquet</strong> <small>PNB@bakjy.com</small>
                         <br>
                         Formation s'adressant à tous les managers qui souhaitent <br>monter en compétences
                       </p>
