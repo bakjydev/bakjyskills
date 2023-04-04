@@ -2,15 +2,15 @@
   <section class="section is-medium">
     <div class="">
       <div class="container">
-        <h2 class="pb-3 pt-2 border-bottom mb-5">Déroulé d'une formation</h2>
+        <h2 class="pb-3 pt-2 border-bottom mb-5 title">Déroulé d'une formation</h2>
         <!--first section-->
         <div class="row align-items-center how-it-works d-flex">
           <div class="col-2 text-center bottom d-inline-flex justify-content-center align-items-center">
             <div class="circle font-weight-bold">1</div>
           </div>
-          <div class="col-6">
-            <h5>En amont :</h5>
-            <p>Prise de contact, définition et évaluation du besoin.</p>
+          <div class="col-6 text-left">
+            <h5 class="title">En amont :</h5>
+            <p class="subtitle">Prise de contact, définition et évaluation du besoin.</p>
           </div>
         </div>
         <!--path between 1-2-->
@@ -28,8 +28,8 @@
         <!--second section-->
         <div class="row align-items-center justify-content-end how-it-works d-flex">
           <div class="col-6 text-right">
-            <h5>Organisation :</h5>
-            <p>Choix de la date et envoie des documents relatifs à la formation</p>
+            <h5 class="title">Organisation :</h5>
+            <p class="subtitle">Choix de la date et envoie des documents relatifs à la formation</p>
           </div>
           <div class="col-2 text-center full d-inline-flex justify-content-center align-items-center">
             <div class="circle font-weight-bold">2</div>
@@ -52,9 +52,9 @@
           <div class="col-2 text-center top d-inline-flex justify-content-center align-items-center">
             <div class="circle font-weight-bold">3</div>
           </div>
-          <div class="col-6">
-            <h5>Formation :</h5>
-            <p>En présentiel, la formation se déroulera au 23 rue des lombards à Paris 4.
+          <div class="col-6 text-left">
+            <h5 class="title">Formation :</h5>
+            <p class="subtitle">En présentiel, la formation se déroulera au 23 rue des lombards à Paris 4.
               Les cours ont lieu de 9h à 12h30 et de 14h à 17h30.
               Les participants sont accueillis à partir de 8h45. Les petits déjeuners et déjeuners seront offerts par
               l’organisme de formation.</p>
@@ -75,8 +75,8 @@
 
         <div class="row align-items-center justify-content-end how-it-works d-flex">
           <div class="col-6 text-right">
-            <h5>Modalités d'évaluation</h5>
-            <p>Le formateur évalue la progression pédagogique du participant tout au long de la formation au moyen de
+            <h5 class="title">Modalités d'évaluation</h5>
+            <p class="subtitle">Le formateur évalue la progression pédagogique du participant tout au long de la formation au moyen de
               QCM, mises en situation, travaux pratiques…</p>
           </div>
           <div class="col-2 text-center full d-inline-flex justify-content-center align-items-center">
@@ -100,9 +100,9 @@
           <div class="col-2 text-center top d-inline-flex justify-content-center align-items-center">
             <div class="circle font-weight-bold">5</div>
           </div>
-          <div class="col-6">
-            <h5>A l’issue de la formation :</h5>
-            <p>Si l'évaluation est positive, un diplôme CONCILIA vous sera décerné à l'issue de la formation.</p>
+          <div class="col-6 text-left">
+            <h5 class="title">A l’issue de la formation :</h5>
+            <p class="subtitle">Si l'évaluation est positive, un diplôme CONCILIA vous sera décerné à l'issue de la formation.</p>
           </div>
         </div>
 
@@ -120,8 +120,8 @@
 
         <div class="row align-items-center justify-content-end how-it-works d-flex">
           <div class="col-6 text-right">
-            <h5>Bilan :</h5>
-            <p>Nous vous remettrons à la fin de la formation par mail ou par papier une enquête de satisfaction
+            <h5 class="title">Bilan :</h5>
+            <p class="subtitle">Nous vous remettrons à la fin de la formation par mail ou par papier une enquête de satisfaction
               (anonyme), afin de nous partager vos impressions et nous aider à améliorer nos processus.</p>
           </div>
           <div class="col-2 text-center full d-inline-flex justify-content-center align-items-center">
