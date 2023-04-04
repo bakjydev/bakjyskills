@@ -76,7 +76,8 @@
         <div class="row align-items-center justify-content-end how-it-works d-flex">
           <div class="col-6 text-right">
             <h5 class="title">Modalités d'évaluation :</h5>
-            <p class="subtitle">Le formateur évalue la progression pédagogique du participant tout au long de la formation au moyen de
+            <p class="subtitle">Le formateur évalue la progression pédagogique du participant tout au long de la
+              formation au moyen de
               QCM, mises en situation, travaux pratiques…</p>
           </div>
           <div class="col-2 text-center full d-inline-flex justify-content-center align-items-center">
@@ -102,7 +103,9 @@
           </div>
           <div class="col-6 text-left">
             <h5 class="title">A l’issue de la formation :</h5>
-            <p class="subtitle">Si l'évaluation est positive, un diplôme CONCILIA vous sera décerné à l'issue de la formation.</p>
+            <p class="subtitle">
+              Vous recevrez une attestation de formation certifiant que vous avez suivi la formation.
+            </p>
           </div>
         </div>
 
@@ -121,7 +124,8 @@
         <div class="row align-items-center justify-content-end how-it-works d-flex">
           <div class="col-6 text-right">
             <h5 class="title">Bilan :</h5>
-            <p class="subtitle">Nous vous remettrons à la fin de la formation par mail ou par papier une enquête de satisfaction
+            <p class="subtitle">Nous vous remettrons à la fin de la formation par mail ou par papier une enquête de
+              satisfaction
               (anonyme), afin de nous partager vos impressions et nous aider à améliorer nos processus.</p>
           </div>
           <div class="col-2 text-center full d-inline-flex justify-content-center align-items-center">
