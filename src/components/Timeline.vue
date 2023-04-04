@@ -75,7 +75,7 @@
 
         <div class="row align-items-center justify-content-end how-it-works d-flex">
           <div class="col-6 text-right">
-            <h5 class="title">Modalités d'évaluation</h5>
+            <h5 class="title">Modalités d'évaluation :</h5>
             <p class="subtitle">Le formateur évalue la progression pédagogique du participant tout au long de la formation au moyen de
               QCM, mises en situation, travaux pratiques…</p>
           </div>
