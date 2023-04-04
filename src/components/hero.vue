@@ -46,11 +46,9 @@
                       </p>
                     </div>
                     <div>
-                      <div class="buttons">
-                        <!--  btn ver le drive      -->
-                        <a class="button"
-                           href="https://drive.google.com/file/d/1z-jXWmIvvZyR7A5LMGi10yUYuWkPQmBA/view?usp=sharing"
-                           target="_blank">
+                      <div class="buttons is-inline-block">
+                        <!--  button et lien vers le pdf de formation      -->
+                        <a class="button"  href="https://drive.google.com/file/d/1z-jXWmIvvZyR7A5LMGi10yUYuWkPQmBA/view?usp=sharing" target="_blank">
                           <strong>PROGRAMME <br>Formation Management</strong>
                         </a>
                       </div>

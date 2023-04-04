@@ -7,7 +7,7 @@
         <h2 class="subtitle">Des fondamentaux aux cas par cas </h2>
         <div class="buttons is-inline-block">
           <!--  button et lien vers le pdf de formation      -->
-          <a class="button"  href="https://drive.google.com/file/d/1u84o2DgihY9o6GSF_miSUbttmZKaZt2y/view?usp=sharing" target="_blank">
+          <a class="button"  href="https://drive.google.com/file/d/1z-jXWmIvvZyR7A5LMGi10yUYuWkPQmBA/view?usp=sharing" target="_blank">
             <strong>PROGRAMME <br>Formation Management</strong>
           </a>
         </div>
