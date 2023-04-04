@@ -3,6 +3,7 @@
   <Programme></Programme>
   <hero></hero>
   <But2></But2>
+  <Timeline></Timeline>
   <Formateurs></Formateurs>
   <Form></Form>
 </template>
@@ -13,7 +14,8 @@ import Formateurs from "@/components/Formateurs";
 import Hero from "@/components/hero";
 import Form from "@/components/Form";
 import But2 from "@/components/But2";
+import Timeline from "../components/Timeline";
 export default {
-  components: { But2, Form, Hero, Formateurs, Programme, Backtest}
+  components: {Timeline, But2, Form, Hero, Formateurs, Programme, Backtest}
 }
 </script>
